@@ -1,4 +1,4 @@
-# PBCharacterMovement
+# CharacterMovement
 
 Project Borealis character movement component.
 
